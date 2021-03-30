@@ -1,0 +1,27 @@
+{
+  "name": "gobelins-nobuild-starter",
+  "version": "1.0.0",
+  "description": "A nobuild starter for prototyping stuff",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "npx http-server ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamflow/gobelins-nobuild-starter.git"
+  },
+  "keywords": [
+    "nobuild",
+    "starter",
+    "boilerplate"
+  ],
+  "author": "Florian Morel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/gobelins-nobuild-starter/issues"
+  },
+  "homepage": "https://github.com/ayamflow/gobelins-nobuild-starter#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
